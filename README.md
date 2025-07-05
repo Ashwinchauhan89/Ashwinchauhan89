@@ -1,3 +1,4 @@
+<style bg-colour : voilet>
 # 💫 About Me:
 Hi , I'm Ashwin Chauhan <br>Computer Science Engineer<br>Python Developer<br>Web Developer
 
@@ -22,3 +23,4 @@ Hi , I'm Ashwin Chauhan <br>Computer Science Engineer<br>Python Developer<br>Web
 [![](https://visitcount.itsvg.in/api?id=Ashwinchauhan89&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  </style>

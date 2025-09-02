@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ashwin Chauhan</h1>
+<h1 align="center">Hi,<br> I'm Ashwin Chauhan</h1>
 <h3 align="center">Computer Science Engineer | Python Developer | Full Stack Web Developer</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Python-based Web Applications** using **FastAPI & Django**  
-- 🌱 Currently learning **DevOps tools** and **Cloud Services (AWS, GCP)**  
-- 👯 I’m looking to collaborate on **Open Source Python/Django Projects**  
-- 💬 Ask me about **Python, Django, REST APIs, Web Dev, FastAPI**  
+- 🔭 I'm currently working on **Python-based Web Applications** using **Django**  
+- 👯 I’m looking to collaborate on **Open Source MERN stack Project**  
+- 💬 Ask me about **Python, MERN, Web Dev**  
 - 📫 How to reach me: **ashwinchauhan99408@gmail.com**  
 - ⚡ Fun Fact: I love writing clean and reusable code — and I still enjoy debugging 😉
 
@@ -53,7 +52,9 @@
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Ashwinchauhan89&theme=radical&hide_border=false&include_all_commits=true&count_private=true) <br>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ashwinchauhan89&theme=radical&hide_border=false) <br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinchauhan89&theme=radical&hide_border=false&layout=compact)
 
 ---

@@ -64,7 +64,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Ashwinchauhan89&theme=radical&hide_border=false&include_all_commits=true&count_private=true) <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashwinchauhan89&theme=radical) <br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashwinchauhan89&theme=tokyonight&hide_border=false)<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinchauhan89&theme=radical&hide_border=false&layout=compact)
 

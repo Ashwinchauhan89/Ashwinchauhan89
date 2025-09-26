@@ -62,7 +62,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashwinchauhan89&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashwinchauhan89&show_icons=true&theme=radical&include_all_commits=true)
 
 
 

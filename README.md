@@ -62,7 +62,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ashwinchauhan89)<br>
+![](https://github-readme-streak.vercel.app/api?username=Ashwinchauhan89)<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=Ashwinchauhan89&show_icons=true&theme=radical&include_all_commits=true)
 

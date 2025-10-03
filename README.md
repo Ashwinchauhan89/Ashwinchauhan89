@@ -5,7 +5,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Python-based Web Applications** using **Django**  
+- 🔭 I'm currently working on **Python-based Web Applications** using **Django**
+  
 - 👯 I’m looking to collaborate on **Open Source MERN stack Project**  
 - 💬 Ask me about **Python, MERN, Web Dev**  
 - 📫 How to reach me: **ashwinchauhan99408@gmail.com**  

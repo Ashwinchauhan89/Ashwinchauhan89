@@ -1,91 +1,80 @@
-# <h1 align="center">Hi 👋, I'm Ashwin Chauhan</h1>
+# 👨‍💻 Ashwin Chauhan
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Engineer;Python+Developer;Full+Stack+Developer;Cybersecurity+Enthusiast;Data+Science+Learner&center=true&width=500&height=45">
-</p>
+💻 **Computer Science Engineer**
+🐍 **Python Developer**
+🌐 **Full Stack Web Developer**
+🔐 **Cybersecurity & Data Science Enthusiast**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashwinchauhan89&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Ashwinchauhan89?label=Followers&style=social"/>
-</p>
+🚀 Passionate about building **AI-powered applications, security systems, and scalable web platforms.**
 
 ---
 
 # 💫 About Me
 
-🎓 Computer Science Engineering Student
-🐍 Python Developer
-🌐 Full Stack Developer
-🔐 Cybersecurity & Data Science Enthusiast
+Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **software engineering, machine learning, cybersecurity, and backend development**.
 
-🚀 Passionate about building **AI systems, security tools, and scalable web applications**.
-
-* 🔐 Built **Credential Stuffing Attack Detection System**
-* 🤖 Working on **AI-powered platforms**
-* 📊 Exploring **Data Science & Visualization**
-* 🧠 Learning **System Design & Cloud Computing**
-* ⚡ Goal: Become a **high-impact software engineer**
+* 🎓 B.Tech Computer Science Student (8.1 CGPA)
+* 🔐 Developed **Credential Stuffing Attack Detection System using Machine Learning**
+* 🤖 Building **AI-powered platforms and data-driven applications**
+* 📊 Exploring **Data Science, Visualization, and System Design**
+* 🚀 Always learning and improving my **software engineering skills**
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://www.facebook.com/ashwin.chauhan.33633344)
 
-<a href="https://www.linkedin.com/in/ashwin-chauhan-98648928b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/ashwinchauhan89)
 
-<a href="https://instagram.com/ashwinchauhan89">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/ashwin-chauhan-98648928b)
 
-<a href="mailto:ashwinchauhan99408@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/AshwinC37780945)
 
-<a href="https://x.com/AshwinC37780945">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
-</a>
-
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:ashwinchauhan99408@gmail.com)
 
 ---
 
-# 🧠 Tech Stack
+# 💻 Tech Stack
 
-## Languages
+## Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js"/>
-</p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+
+---
 
 ## Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,nodejs"/>
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+
+---
 
 ## Backend & Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi"/>
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge)
+
+---
 
 ## Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-</p>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-## Data Science
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib"/>
-</p>
+## Data Science & Visualization
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
 
 ---
 
@@ -93,104 +82,89 @@
 
 ## 🔐 Credential Stuffing Attack Detection
 
-**Tech:** Python, FastAPI, Isolation Forest, Streamlit
+**Tech Stack:** Python, Isolation Forest, FastAPI, Streamlit
 
-* Detects credential stuffing attacks using ML anomaly detection
-* Real-time login monitoring dashboard
-* Security analytics visualization
+* Detects credential stuffing attacks using **machine learning anomaly detection**
+* Real-time **login monitoring system**
+* Interactive **dashboard for visualization and security insights**
 
 ---
 
 ## 🤖 SkillSync AI
 
-**Tech:** Next.js, Prisma, Clerk, PostgreSQL
+**Tech Stack:** Next.js, Prisma, Clerk, PostgreSQL
 
-* AI-powered career recommendation platform
-* Skill gap analysis system
-* Personalized career roadmap
+* AI-powered **career recommendation platform**
+* Smart **skill gap analysis**
+* Personalized **learning roadmap**
 
 ---
 
 ## 🎬 MovieNext
 
-**Tech:** MERN Stack, TMDB API
+**Tech Stack:** MERN Stack, TMDB API
 
-* Movie discovery platform
-* Secure authentication
-* Real-time movie browsing
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ashwinchauhan89&show_icons=true&theme=radical"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinchauhan89&theme=radical"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinchauhan89&layout=compact&theme=radical"/>
-</p>
+* Movie discovery using TMDB API
+* Authentication and user interface for ticket booking
+* Real-time movie browsing experience
 
 ---
 
-# 📈 Contribution Activity
+# 📊 GitHub Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwinchauhan89&theme=react-dark"/>
+![](https://github-readme-stats.vercel.app/api?username=Ashwinchauhan89\&theme=radical\&hide_border=false)
 
----
+![](https://nirzak-streak-stats.vercel.app/?user=Ashwinchauhan89\&theme=radical\&hide_border=false)
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ashwinchauhan89&theme=onedark"/>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinchauhan89\&theme=radical\&layout=compact)
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 Contribution Graph
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ashwinchauhan89\&theme=react-dark)
+
+---
+
+# 🏆 Achievements
+
+* 🥇 Best Academic Performance Award (2024–2025)
+* 🏐 Inter-College Volleyball Medalist
+* 🎤 Event Anchor & Volunteer
+* 👨‍💼 Class Representative
 
 ---
 
 # 🧠 Currently Learning
 
 * Machine Learning
-* Cybersecurity
 * Data Science
-* Cloud Computing
+* Cybersecurity
 * System Design
+* Cloud Computing
 
 ---
 
-# ✍️ Random Dev Quote
+# ✍️ Developer Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
----
-
-# 👀 Profile Visitors
-
-<img src="https://visitcount.itsvg.in/api?id=Ashwinchauhan89&icon=5&color=8"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
 
-# ⭐ Support
+# 🔝 Top Contributed Repositories
 
-If you like my work:
-
-⭐ Star my repositories
-🍴 Fork projects
-🤝 Connect with me
+![](https://github-contributor-stats.vercel.app/api?username=Ashwinchauhan89\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
 
 ---
 
-<p align="center">
-⚡ <b>Always learning. Always building.</b>
-</p>
+# 👀 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=Ashwinchauhan89\&icon=5\&color=8)
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
+
 
 
 

@@ -122,7 +122,6 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 
 # 📊 GitHub Stats
 
-<p align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=Ashwinchauhan89\&theme=radical\&hide_border=false)
 
@@ -130,7 +129,6 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinchauhan89\&theme=radical\&layout=compact)
 
-</p>
 ---
 
 # 📈 Contribution Graph
@@ -146,99 +144,11 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 * 🎤 Event Anchor & Volunteer
 * 👨‍💼 Class Representative
 
-
+---
 
 # ✍️ Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
----
-
-# 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Ashwinchauhan89\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
-
----
-
-# 👀 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=Ashwinchauhan89\&icon=5\&color=8)
-
----
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashwinchauhan89&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ashwinchauhan89&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinchauhan89&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ashwinchauhan89&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ashwinchauhan89&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-# 📊 AI Analytics Dashboard
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashwinchauhan89&show_icons=true&theme=radical"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinchauhan89&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinchauhan89&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Neural Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwinchauhan89&theme=react-dark"/>
-
----
-
-# 🧠 AI Achievements
-
-🏆 Best Academic Performance Award (2024–2025)
-🏐 Inter-College Volleyball Medal
-🎤 Event Anchor & Volunteer
-👨‍💼 Class Representative
-
----
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 👁 AI Visitors Counter
-
-<img src="https://visitcount.itsvg.in/api?id=Ashwinchauhan89&icon=5&color=12"/>
-
----
-
-
-
 
 
 

@@ -221,31 +221,6 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 
 ---
 
-# 🌐 Connect With My Network
-
-<p>
-
-<a href="https://linkedin.com/in/ashwin-chauhan-98648928b">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:ashwinchauhan99408@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://instagram.com/ashwinchauhan89">
-<img src="https://img.shields.io/badge/Instagram-Social-purple?style=for-the-badge&logo=instagram">
-</a>
-
-</p>
-
----
-
-# 🧠 AI Thought
-
-> "Artificial Intelligence is not about replacing humans.
-> It's about amplifying human potential."
-
 ---
 
 # 🐍 Contribution Snake
@@ -262,11 +237,7 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 
 ---
 
-<p align="center">
 
-⚡ Building the future with code and intelligence.
-
-</p>
 
 
 

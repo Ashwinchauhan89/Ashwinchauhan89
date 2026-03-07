@@ -1,188 +1,150 @@
-<!-- AI THEMED GITHUB PROFILE -->
-
-<h1 align="center">🤖 Ashwin Chauhan</h1>
+# <h1 align="center">Hi 👋, I'm Ashwin Chauhan</h1>
 
 <p align="center">
-AI Engineer in Progress | Python Developer | Full Stack Builder
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Engineer;Python+Developer;Full+Stack+Developer;Cybersecurity+Enthusiast;Data+Science+Learner&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Machine+Learning+Explorer;Cybersecurity+Developer;Building+Smart+Systems;Welcome+to+My+AI+Lab"/>
+  <img src="https://komarev.com/ghpvc/?username=Ashwinchauhan89&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Ashwinchauhan89?label=Followers&style=social"/>
 </p>
 
 ---
 
-# 🧠 AI Lab – About Me
+# 💫 About Me
 
-```python
-class Developer:
+🎓 Computer Science Engineering Student
+🐍 Python Developer
+🌐 Full Stack Developer
+🔐 Cybersecurity & Data Science Enthusiast
 
-    def __init__(self):
-        self.name = "Ashwin Chauhan"
-        self.role = "AI / Software Developer"
-        self.language_spoken = ["Python", "JavaScript", "C++"]
+🚀 Passionate about building **AI systems, security tools, and scalable web applications**.
 
-    def current_focus(self):
-        return [
-            "Machine Learning",
-            "Cybersecurity",
-            "Backend Development",
-            "Data Science"
-        ]
-
-    def future_goal(self):
-        return "Build intelligent systems that solve real-world problems"
-```
-
-🚀 Computer Science Engineering student passionate about **AI systems, intelligent automation, and secure web platforms**.
-
-Currently building:
-
-* 🔐 AI-based **Credential Stuffing Detection System**
-* 🤖 **AI Career Guidance Platform**
-* 🌐 Full stack applications with modern frameworks
+* 🔐 Built **Credential Stuffing Attack Detection System**
+* 🤖 Working on **AI-powered platforms**
+* 📊 Exploring **Data Science & Visualization**
+* 🧠 Learning **System Design & Cloud Computing**
+* ⚡ Goal: Become a **high-impact software engineer**
 
 ---
 
-# 🧬 Tech Stack
+# 🌐 Connect With Me
 
-### Languages
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ashwin-chauhan-98648928b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/ashwinchauhan89">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="mailto:ashwinchauhan99408@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://x.com/AshwinC37780945">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+</a>
+
+</p>
+
+---
+
+# 🧠 Tech Stack
+
+## Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js"/>
 </p>
 
-### Web Development
+## Web Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,nodejs"/>
 </p>
 
-### Backend & Frameworks
+## Backend & Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=django,fastapi"/>
 </p>
 
-### Databases
+## Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 </p>
 
-### Data Science
+## Data Science
 
 <p>
 <img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://img.shields.io/badge/Pandas-AI%20Data-blue?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Numpy-Scientific%20Computing-purple?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib"/>
 </p>
 
 ---
 
-# 🤖 AI Projects
+# 🚀 Featured Projects
 
 ## 🔐 Credential Stuffing Attack Detection
 
-Machine learning based cybersecurity tool.
+**Tech:** Python, FastAPI, Isolation Forest, Streamlit
 
-Tech:
-
-Python
-FastAPI
-Isolation Forest
-Streamlit
-
-Features:
-
-* Detects abnormal login behavior
-* Real-time attack detection
-* Security analytics dashboard
+* Detects credential stuffing attacks using ML anomaly detection
+* Real-time login monitoring dashboard
+* Security analytics visualization
 
 ---
 
 ## 🤖 SkillSync AI
 
-AI-powered career recommendation platform.
+**Tech:** Next.js, Prisma, Clerk, PostgreSQL
 
-Features:
-
-* AI career suggestions
-* Skill gap analysis
-* Personalized learning roadmap
+* AI-powered career recommendation platform
+* Skill gap analysis system
+* Personalized career roadmap
 
 ---
 
 ## 🎬 MovieNext
 
-Full stack movie platform.
+**Tech:** MERN Stack, TMDB API
 
-Features:
-
-* TMDB API integration
-* Authentication system
-* Interactive movie browsing
+* Movie discovery platform
+* Secure authentication
+* Real-time movie browsing
 
 ---
 
-# 📊 AI Analytics Dashboard
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashwinchauhan89&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinchauhan89&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Ashwinchauhan89&show_icons=true&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinchauhan89&theme=radical"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinchauhan89&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinchauhan89&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-# 📈 Neural Activity Graph
+# 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwinchauhan89&theme=react-dark"/>
 
 ---
 
-# 🧠 AI Achievements
+# 🏆 GitHub Trophies
 
-🏆 Best Academic Performance Award (2024–2025)
-🏐 Inter-College Volleyball Medal
-🎤 Event Anchor & Volunteer
-👨‍💼 Class Representative
-
----
-
-# 🌐 Connect With My Network
-
-<p>
-
-<a href="https://linkedin.com/in/ashwin-chauhan-98648928b">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:ashwinchauhan99408@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://instagram.com/ashwinchauhan89">
-<img src="https://img.shields.io/badge/Instagram-Social-purple?style=for-the-badge&logo=instagram">
-</a>
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ashwinchauhan89&theme=onedark"/>
 </p>
-
----
-
-# 🧠 AI Thought
-
-> "Artificial Intelligence is not about replacing humans.
-> It's about amplifying human potential."
 
 ---
 
@@ -194,17 +156,42 @@ Features:
 
 ---
 
-# 👁 AI Visitors Counter
+# 🧠 Currently Learning
 
-<img src="https://visitcount.itsvg.in/api?id=Ashwinchauhan89&icon=5&color=12"/>
+* Machine Learning
+* Cybersecurity
+* Data Science
+* Cloud Computing
+* System Design
+
+---
+
+# ✍️ Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+---
+
+# 👀 Profile Visitors
+
+<img src="https://visitcount.itsvg.in/api?id=Ashwinchauhan89&icon=5&color=8"/>
+
+---
+
+# ⭐ Support
+
+If you like my work:
+
+⭐ Star my repositories
+🍴 Fork projects
+🤝 Connect with me
 
 ---
 
 <p align="center">
-
-⚡ Building the future with code and intelligence.
-
+⚡ <b>Always learning. Always building.</b>
 </p>
+
 
 
 

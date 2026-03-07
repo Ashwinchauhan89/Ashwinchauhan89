@@ -7,7 +7,7 @@ Python Developer | Full Stack Developer | MERN Stack | AI&ML Explorer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile;Python+Developer;Full+Stack+Developer;MERN+Stack;AIML+Explorer;Computer+Science+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=fc3783&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile;Python+Developer;Full+Stack+Developer;MERN+Stack;AIML+Explorer;Computer+Science+Engineer"/>
 </p>
 
 ---
@@ -122,12 +122,15 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 
 # 📊 GitHub Stats
 
+<p align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=Ashwinchauhan89\&theme=radical\&hide_border=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Ashwinchauhan89\&theme=radical\&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinchauhan89\&theme=radical\&layout=compact)
 
+</p>
 ---
 
 # 📈 Contribution Graph
@@ -163,14 +166,6 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
-
-# 💫 About Me:
-Hi , I'm Ashwin Chauhan <br>Computer Science Engineer<br>Python Developer<br>Web Developer
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ashwin.chauhan.33633344) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/ashwinchauhan89/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ashwin-chauhan-98648928b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/AshwinC37780945) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinchauhan99408@gmail.com) 
 
 
 # 📊 GitHub Stats:
@@ -193,37 +188,11 @@ Hi , I'm Ashwin Chauhan <br>Computer Science Engineer<br>Python Developer<br>Web
 
 
 
-
-
-## 🤖 SkillSync AI
-
-AI-powered career recommendation platform.
-
-Features:
-
-* AI career suggestions
-* Skill gap analysis
-* Personalized learning roadmap
-
----
-
-## 🎬 MovieNext
-
-Full stack movie platform.
-
-Features:
-
-* TMDB API integration
-* Authentication system
-* Interactive movie browsing
-
----
-
 # 📊 AI Analytics Dashboard
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashwinchauhan89&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ashwinchauhan89&show_icons=true&theme=radical"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinchauhan89&theme=tokyonight"/>
 

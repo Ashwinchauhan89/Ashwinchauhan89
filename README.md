@@ -3,7 +3,7 @@
 <h1 align="center">Ashwin Chauhan</h1>
 
 <p align="center">
-Python Developer | Full Stack Developer | MERN Stack | AI&ML Explorer 
+Python Developer | AI & ML Developer | Full Stack Developer | MERN Stack |
 </p>
 
 <p align="center">

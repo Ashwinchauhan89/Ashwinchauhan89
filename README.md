@@ -7,7 +7,7 @@ Python Developer | AI & ML Developer | Full Stack Developer | MERN Stack |
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=fc3783&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile;Python+Developer;Full+Stack+Developer;MERN+Stack;AIML+Explorer;Computer+Science+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=fc3783&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile;Python+Developer;Full+Stack+Developer;MERN+Stack;AIML+Developer;Computer+Science+Engineer"/>
 </p>
 
 ---

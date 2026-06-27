@@ -74,7 +74,7 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
 
 ### 🧬 Python Libraries
-
+![Pytorch](https://img.shields.io/badge/pytorch-yellow?style=for-the-badge\&logo=pytorch)
 ![Numpy](https://img.shields.io/badge/Numpy-yellow?style=for-the-badge\&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge\&logo=pandas)
 ![](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge\&logo=matplotlib)

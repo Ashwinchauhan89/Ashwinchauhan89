@@ -11,11 +11,8 @@ Python Developer | AI & ML Developer | Full Stack Developer | MERN Stack |
 </p>
 
 ---
-
 # 💫 About Me
-
 Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **full-stack development, artificial intelligence & machine learning, and MERN stack development**.
-
 * 🎓 B.Tech Computer Science Student (8.1 CGPA)
 * 🤖 Developed **SkillSync AI - AI Career Guidance Platform**
 * 🔐 Developed **Credential Stuffing Attack Detection System using Machine Learning**

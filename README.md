@@ -117,37 +117,15 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 
 # 🚀 Featured Projects
 
-## 🔐 Credential Stuffing Attack Detection
-
-**Tech Stack:** Python, Isolation Forest, FastAPI, Streamlit
-
-* Detects credential stuffing attacks using **machine learning anomaly detection**
-* Real-time **login monitoring system**
-* Interactive **dashboard for visualization and security insights**
+| Project | Tech Stack | Key Highlights |
+|---|---|---|
+| 🔐 **Credential Stuffing Attack Detection** | Python, Scikit-learn, Isolation Forest, FastAPI, Streamlit | • ML-based anomaly detection for credential stuffing attacks<br>• Real-time login activity monitoring<br>• Interactive security dashboard for attack visualization and security insights |
+| 🤖 **SkillSync AI** | Next.js, Prisma, Clerk, PostgreSQL, Gemini API, Inngest | • AI-powered career guidance and skill development platform<br>• Intelligent skill-gap analysis and industry insights<br>• AI resume builder and personalized learning roadmap |
+| 🎬 **MovieNext** | MERN Stack, TMDB API | • Full-stack movie discovery and ticket booking platform<br>• User authentication and booking workflow<br>• Dynamic movie browsing and search experience |
 
 ---
 
-## 🤖 SkillSync AI
-
-**Tech Stack:** Next.js, Prisma, Clerk, PostgreSQL
-
-* AI-powered **career recommendation platform**
-* Smart **skill gap analysis and trends industry insight with resume building**
-* Personalized **learning roadmap**
-
----
-
-## 🎬 MovieNext
-
-**Tech Stack:** MERN Stack, TMDB API
-
-* Movie discovery using TMDB API
-* Authentication and user interface for ticket booking
-* Real-time movie browsing experience
-
----
-
-# 📊 GitHub Stats
+#  GitHub Stats
 
   
 ![](https://github-readme-stats.vercel.app/api?username=Ashwinchauhan89\&theme=radical\&hide_border=false)
@@ -158,22 +136,22 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Ashwinchauhan89\&theme=react-dark)
 
 ---
 
-# 🏆 Achievements
+#  Achievements
 
-* 🥇 Best Academic Performance Award (2024–2025)
-* 🏐 Inter-College Volleyball Medalist
-* 🎤 Event Anchor & Volunteer
-* 👨‍💼 Class Representative
+*  Best Academic Performance Award (2024–2025)
+*  Inter-College Volleyball Medalist
+*  Event Anchor & Volunteer
+*  Class Representative
 
 ---
 
-# ✍️ Developer Quote
+#  Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 

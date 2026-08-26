@@ -115,32 +115,16 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 | Project | Tech Stack | Key Highlights |
 |---|---|---|
-| 🔐 **Credential Stuffing Attack Detection** | Python, Scikit-learn, Isolation Forest, FastAPI, Streamlit | • ML-based anomaly detection for credential stuffing attacks<br>• Real-time login activity monitoring<br>• Interactive security dashboard for attack visualization and security insights |
-| 🤖 **SkillSync AI** | Next.js, Prisma, Clerk, PostgreSQL, Gemini API, Inngest | • AI-powered career guidance and skill development platform<br>• Intelligent skill-gap analysis and industry insights<br>• AI resume builder and personalized learning roadmap |
-| 🎬 **MovieNext** | MERN Stack, TMDB API | • Full-stack movie discovery and ticket booking platform<br>• User authentication and booking workflow<br>• Dynamic movie browsing and search experience |
+|   **Credential Stuffing Attack Detection** | Python, Scikit-learn, Isolation Forest, FastAPI, Streamlit | • ML-based anomaly detection for credential stuffing attacks<br>• Real-time login activity monitoring<br>• Interactive security dashboard for attack visualization and security insights |
+|   **SkillSync AI** | Next.js, Prisma, Clerk, PostgreSQL, Gemini API, Inngest | • AI-powered career guidance and skill development platform<br>• Intelligent skill-gap analysis and industry insights<br>• AI resume builder and personalized learning roadmap |
+|   **MovieNext** | MERN Stack, TMDB API | • Full-stack movie discovery and ticket booking platform<br>• User authentication and booking workflow<br>• Dynamic movie browsing and search experience |
 
 ---
 
-#  GitHub Stats
-
-  
-![](https://github-readme-stats.vercel.app/api?username=Ashwinchauhan89\&theme=radical\&hide_border=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Ashwinchauhan89\&theme=radical\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinchauhan89\&theme=radical\&layout=compact)
-
----
-
-#  Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Ashwinchauhan89\&theme=react-dark)
-
----
 
 #  Achievements
 

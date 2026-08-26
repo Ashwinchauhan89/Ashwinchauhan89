@@ -11,18 +11,18 @@ Python Developer | AI & ML Developer | Full Stack Developer | MERN Stack |
 </p>
 
 ---
-# 💫 About Me
+# About Me
 Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **full-stack development, artificial intelligence & machine learning, and MERN stack development**.
-* 🎓 B.Tech Computer Science Student (8.1 CGPA)
-* 🤖 Developed **SkillSync AI - AI Career Guidance Platform**
-* 🔐 Developed **Credential Stuffing Attack Detection System using Machine Learning**
-* 🤖 Building **AI-powered platforms and data-driven applications to solve the real-world problems**
-* 📊 Exploring **Data Science, Visualization, and AIML**
-* 🚀 Always learning and improving my **software engineering skills**
+*  B.Tech Computer Science Student (8.1 CGPA)
+*  Developed **SkillSync AI - AI Career Guidance Platform**
+*  Developed **Credential Stuffing Attack Detection System using Machine Learning**
+*  Building **AI-powered platforms and data-driven applications to solve the real-world problems**
+*  Exploring **Data Science, Visualization, and AIML**
+*  Always learning and improving my **software engineering skills**
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
@@ -54,11 +54,11 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <div align="center">
 
-## 🎨 Frontend Development
+## Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -70,7 +70,7 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 
 ---
 
-## ⚙️ Backend & Frameworks
+## Backend & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -81,7 +81,7 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 
 ---
 
-## 🗄️ Databases & ORM
+##  Databases & ORM
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -91,7 +91,7 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 
 ---
 
-## 🤖 AI / ML
+##  AI / ML
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)

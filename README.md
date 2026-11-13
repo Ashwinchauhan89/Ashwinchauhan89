@@ -275,8 +275,17 @@ A full-stack web application designed to provide an interactive movie discovery 
 
 I actively work on open-source initiatives focused on machine learning infrastructure, artificial intelligence, financial technology, and scalable software engineering. These projects aim to explore emerging technologies and develop practical, extensible solutions.
 
+<div align="center">
+  
 ## 1. EliteML
+
+</div>
+
+<div align="center">
+
 **A Research-Oriented Hybrid Python/C++ Machine Learning Framework**
+
+</div>
 
 An independent machine learning framework designed around a native C++ computational core and an accessible Python API, with an emphasis on mathematical foundations, numerical correctness, and reproducible experimentation.
 
@@ -291,12 +300,21 @@ An independent machine learning framework designed around a native C++ computati
 
 **Development Status:** Early Development (Phase 1).
 
-**Repository:** [EliteML++](https://github.com/Ashwinchauhan89/EliteML)
+**Repository:** [EliteML](https://github.com/Ashwinchauhan89/EliteML)
 
 ---
 
+<div align="center">
+  
 ## 2. Fintra-AI
+
+</div>
+
+<div align="center">
+
 **AI-Powered Personal Finance Management Platform**
+
+</div>
 
 An intelligent personal finance management platform designed to transform financial data into actionable insights through AI-assisted analysis, financial analytics, and predictive intelligence.
 

@@ -184,7 +184,7 @@ A machine learning-based cybersecurity solution designed to identify suspicious 
 
 ---
 
-### 05. SkillSync AI
+## 05. SkillSync AI
 **AI-Powered Career Guidance and Skill Development Platform**
 
 A full-stack AI-powered career development platform designed to help individuals assess their professional skills, identify skill gaps, explore industry trends, and build personalized career development roadmaps.
@@ -216,11 +216,11 @@ A full-stack web application designed to provide an interactive movie discovery 
 **Technology Stack:** MongoDB, Express.js, React.js, Node.js, TMDB API.
 
 ---
-##  Open-Source Projects
+#  Open-Source Projects
 
 I actively work on open-source initiatives focused on machine learning infrastructure, artificial intelligence, financial technology, and scalable software engineering. These projects aim to explore emerging technologies and develop practical, extensible solutions.
 
-### 1. EliteML
+## 1. EliteML
 **A Research-Oriented Hybrid Python/C++ Machine Learning Framework**
 
 An independent machine learning framework designed around a native C++ computational core and an accessible Python API, with an emphasis on mathematical foundations, numerical correctness, and reproducible experimentation.
@@ -240,7 +240,7 @@ An independent machine learning framework designed around a native C++ computati
 
 ---
 
-### 2. Fintra-AI
+## 2. Fintra-AI
 **AI-Powered Personal Finance Management Platform**
 
 An intelligent personal finance management platform designed to transform financial data into actionable insights through AI-assisted analysis, financial analytics, and predictive intelligence.
@@ -261,16 +261,7 @@ An intelligent personal finance management platform designed to transform financ
 
 ---
 
-### Open-Source Contributions
 
-I welcome collaboration with developers, AI/ML engineers, researchers, and open-source enthusiasts interested in building reliable, scalable, and innovative software solutions.
-
-Areas of contribution include:
-- Machine Learning and AI Research
-- Python and C++ Development
-- Full-Stack Engineering
-- Data Science and Financial Analytics
-- Testing, Documentation, and DevOps
 
 
 #  Achievements

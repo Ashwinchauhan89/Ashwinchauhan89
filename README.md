@@ -216,7 +216,61 @@ A full-stack web application designed to provide an interactive movie discovery 
 **Technology Stack:** MongoDB, Express.js, React.js, Node.js, TMDB API.
 
 ---
+##  Open-Source Projects
 
+I actively work on open-source initiatives focused on machine learning infrastructure, artificial intelligence, financial technology, and scalable software engineering. These projects aim to explore emerging technologies and develop practical, extensible solutions.
+
+### 1. EliteML
+**A Research-Oriented Hybrid Python/C++ Machine Learning Framework**
+
+An independent machine learning framework designed around a native C++ computational core and an accessible Python API, with an emphasis on mathematical foundations, numerical correctness, and reproducible experimentation.
+
+**Key Highlights**
+- Developing a native C++ computational engine for matrix operations and numerical computing.
+- Integrating Python and C++ through Pybind11.
+- Designing modular machine learning algorithms and mathematical components.
+- Researching automated data leakage detection and prevention in ML pipelines.
+- Exploring reproducible experimentation, numerical validation, and performance benchmarking.
+
+**Technology Stack:** C++20, Python 3.11+, Pybind11, CMake, Scikit-learn, Pytest, GitHub Actions.
+
+**Development Status:** Early Development (Phase 1).
+
+**Repository:** [EliteML++](https://github.com/Ashwinchauhan89/EliteML)
+
+---
+
+### 2. Fintra-AI
+**AI-Powered Personal Finance Management Platform**
+
+An intelligent personal finance management platform designed to transform financial data into actionable insights through AI-assisted analysis, financial analytics, and predictive intelligence.
+
+**Key Highlights**
+- Personal finance management, including income, expense, and budget tracking using reinforcement learning.
+- AI-powered financial assistance and personalized recommendations using Google Gemini.
+- Financial analytics, spending trends, and cash flow analysis.
+- Researching machine learning capabilities for expense classification, spending forecasting, and anomaly detection.
+- Secure application architecture with authentication, database management, and cloud deployment.
+- Open-source collaboration opportunities across frontend, backend, AI/ML, and DevOps.
+
+**Technology Stack:** Next.js, React.js, Tailwind CSS, Prisma ORM, PostgreSQL, Google Gemini API, Clerk, Inngest, Arcjet, Resend, Vercel.
+
+**Development Status:** Active Development.
+
+**Repository:** [Fintra-AI](https://github.com/Ashwinchauhan89/Fintra-AI)
+
+---
+
+### Open-Source Contributions
+
+I welcome collaboration with developers, AI/ML engineers, researchers, and open-source enthusiasts interested in building reliable, scalable, and innovative software solutions.
+
+Areas of contribution include:
+- Machine Learning and AI Research
+- Python and C++ Development
+- Full-Stack Engineering
+- Data Science and Financial Analytics
+- Testing, Documentation, and DevOps
 
 
 #  Achievements

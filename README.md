@@ -113,17 +113,110 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 
 </div>
 
----
-
-#  Featured Projects
-
-| Project | Tech Stack | Key Highlights |
-|---|---|---|
-|   **Credential Stuffing Attack Detection** | Python, Scikit-learn, Isolation Forest, FastAPI, Streamlit | • ML-based anomaly detection for credential stuffing attacks<br>• Real-time login activity monitoring<br>• Interactive security dashboard for attack visualization and security insights |
-|   **SkillSync AI** | Next.js, Prisma, Clerk, PostgreSQL, Gemini API, Inngest | • AI-powered career guidance and skill development platform<br>• Intelligent skill-gap analysis and industry insights<br>• AI resume builder and personalized learning roadmap |
-|   **MovieNext** | MERN Stack, TMDB API | • Full-stack movie discovery and ticket booking platform<br>• User authentication and booking workflow<br>• Dynamic movie browsing and search experience |
 
 ---
+
+# Featured Projects
+
+## 01. MarineLens AI
+**AI-Based Marine Heatwave Detection and Forecasting System**
+
+**Status:** In Development
+
+An AI-driven marine intelligence system designed to detect, analyze, and forecast Marine Heatwaves (MHWs) using oceanographic and climate datasets. The project aims to support marine climate research through data-driven analysis and predictive modeling.
+
+**Key Contributions & Features**
+- Marine heatwave detection and forecasting using historical oceanographic datasets.
+- Integration of NOAA and Copernicus marine data sources.
+- Climate data preprocessing, exploratory analysis, and visualization.
+- Temporal trend analysis and marine climate monitoring.
+- Interactive dashboard for climate intelligence and analytical insights.
+
+**Technology Stack:** Python, Machine Learning, FastAPI, Next.js, React.js, PostgreSQL, NOAA Data, Copernicus Data.
+
+---
+
+## 02. WildVision AI
+**Wildlife Population Intelligence System**
+
+An AI-powered wildlife monitoring platform leveraging computer vision to automate species detection, support population estimation, and provide analytical insights for biodiversity monitoring and conservation.
+
+**Key Contributions & Features**
+- Automated wildlife detection and species identification using YOLO.
+- Computer vision-based wildlife population monitoring.
+- Analytical dashboards for detection statistics and population insights.
+- Geospatial visualization and wildlife monitoring.
+- RESTful APIs for detection, reporting, and population analytics.
+
+**Technology Stack:** Python, YOLO, OpenCV, FastAPI, Next.js, React.js, Tailwind CSS, SQLite, Docker.
+
+---
+
+## 03. CHAKRAVYUH SVAS
+**Future of Digital Banking Security**
+
+An advanced digital banking security initiative focused on exploring AI-powered, privacy-preserving, and quantum-resilient approaches to strengthening next-generation financial infrastructure.
+
+**Key Contributions & Focus Areas**
+- AI-driven digital banking security architecture.
+- Privacy-preserving financial data protection.
+- Exploration of quantum-resilient security mechanisms.
+- Secure digital transaction infrastructure.
+- Research into emerging cybersecurity challenges in financial systems.
+
+**Technology Focus:** Artificial Intelligence, Cybersecurity, Privacy-Preserving Computing, Quantum-Resistant Cryptography, Digital Banking Security.
+
+---
+
+## 04. Credential Stuffing Attack Detection
+**Machine Learning-Based Authentication Anomaly Detection**
+
+A machine learning-based cybersecurity solution designed to identify suspicious authentication patterns and detect potential credential stuffing attacks through anomaly detection techniques.
+
+**Key Contributions & Features**
+- Developed an anomaly detection system using Isolation Forest.
+- Implemented login activity monitoring and suspicious behavior identification.
+- Analyzed authentication patterns to identify potentially malicious activities.
+- Developed an interactive security dashboard for attack visualization and analytical insights.
+- Integrated a FastAPI backend with a Streamlit-based monitoring interface.
+
+**Technology Stack:** Python, Scikit-learn, Isolation Forest, FastAPI, Streamlit.
+
+---
+
+### 05. SkillSync AI
+**AI-Powered Career Guidance and Skill Development Platform**
+
+A full-stack AI-powered career development platform designed to help individuals assess their professional skills, identify skill gaps, explore industry trends, and build personalized career development roadmaps.
+
+**Key Contributions & Features**
+- Developed an AI-powered career guidance and skill development platform.
+- Implemented intelligent skill-gap analysis and personalized learning recommendations.
+- Built an ATS-friendly resume builder with AI-assisted content generation.
+- Integrated AI-powered cover letter generation.
+- Developed automated industry insights covering salary trends, market demand, and relevant skills.
+- Implemented scheduled background processing for industry insights.
+
+**Technology Stack:** Next.js, Prisma ORM, Clerk, PostgreSQL, Google Gemini API, Inngest, Tailwind CSS.
+
+---
+
+## 06. MovieNext
+**Full-Stack Movie Discovery and Ticket Booking Platform**
+
+A full-stack web application designed to provide an interactive movie discovery experience with integrated movie information, user authentication, and ticket booking workflows.
+
+**Key Contributions & Features**
+- Developed a full-stack movie discovery and ticket booking application.
+- Implemented user authentication and booking workflows.
+- Integrated TMDB API for dynamic movie information and metadata.
+- Developed movie browsing, search, and discovery functionality.
+- Designed responsive user interfaces for an enhanced browsing experience.
+
+**Technology Stack:** MongoDB, Express.js, React.js, Node.js, TMDB API.
+
+---
+
 
 
 #  Achievements

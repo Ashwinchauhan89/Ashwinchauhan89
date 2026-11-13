@@ -116,10 +116,21 @@ Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **
 
 ---
 
+
 # Featured Projects
 
+
+<div align="center">
+  
 ## 01. MarineLens AI
+
+</div>
+
+<div align="center">
+
 **AI-Based Marine Heatwave Detection and Forecasting System**
+
+</div>
 
 **Status:** In Development
 
@@ -136,8 +147,17 @@ An AI-driven marine intelligence system designed to detect, analyze, and forecas
 
 ---
 
+<div align="center">
+  
 ## 02. WildVision AI
+
+</div>
+
+<div align="center">
+  
 **Wildlife Population Intelligence System**
+
+</div>
 
 An AI-powered wildlife monitoring platform leveraging computer vision to automate species detection, support population estimation, and provide analytical insights for biodiversity monitoring and conservation.
 

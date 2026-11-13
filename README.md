@@ -262,8 +262,6 @@ An intelligent personal finance management platform designed to transform financ
 ---
 
 
-
-
 #  Achievements
 
 *  Best Academic Performance Award (2024–2025)

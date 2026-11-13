@@ -171,9 +171,17 @@ An AI-powered wildlife monitoring platform leveraging computer vision to automat
 **Technology Stack:** Python, YOLO, OpenCV, FastAPI, Next.js, React.js, Tailwind CSS, SQLite, Docker.
 
 ---
-
+<div align="center">
+  
 ## 03. CHAKRAVYUH SVAS
+
+</div>
+
+<div align="center">
+  
 **Future of Digital Banking Security**
+
+</div>
 
 An advanced digital banking security initiative focused on exploring AI-powered, privacy-preserving, and quantum-resilient approaches to strengthening next-generation financial infrastructure.
 
@@ -188,8 +196,17 @@ An advanced digital banking security initiative focused on exploring AI-powered,
 
 ---
 
+<div align="center">
+  
 ## 04. Credential Stuffing Attack Detection
+
+</div>
+
+<div align="center">
+  
 **Machine Learning-Based Authentication Anomaly Detection**
+
+</div>
 
 A machine learning-based cybersecurity solution designed to identify suspicious authentication patterns and detect potential credential stuffing attacks through anomaly detection techniques.
 
@@ -204,8 +221,17 @@ A machine learning-based cybersecurity solution designed to identify suspicious 
 
 ---
 
+<div align="center">
+  
 ## 05. SkillSync AI
+
+</div>
+
+<div align="center">
+  
 **AI-Powered Career Guidance and Skill Development Platform**
+
+</div>
 
 A full-stack AI-powered career development platform designed to help individuals assess their professional skills, identify skill gaps, explore industry trends, and build personalized career development roadmaps.
 
@@ -221,8 +247,17 @@ A full-stack AI-powered career development platform designed to help individuals
 
 ---
 
+<div align="center">
+  
 ## 06. MovieNext
+
+</div>
+
+<div align="center">
+  
 **Full-Stack Movie Discovery and Ticket Booking Platform**
+
+</div>
 
 A full-stack web application designed to provide an interactive movie discovery experience with integrated movie information, user authentication, and ticket booking workflows.
 

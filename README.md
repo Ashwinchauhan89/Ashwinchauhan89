@@ -10,6 +10,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=fc3783&center=true&vCenter=true&width=700&lines=Welcome+to+my+Profile;Python+Developer;AI%2FML+Developer;Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Building+AI-Powered+Solutions;Computer+Science+Engineer" alt="Typing SVG" />
 </p>
 
+
+
 ---
 # About Me
 Hi, I'm **Ashwin Chauhan**, a Computer Science Engineering student focused on **full-stack development, artificial intelligence & machine learning, and MERN stack development**.

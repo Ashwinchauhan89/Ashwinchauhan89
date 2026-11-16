@@ -338,6 +338,19 @@ An intelligent personal finance management platform designed to transform financ
 
 ---
 
+# Leadership & Community Involvement
+
+### AWS Student Builder Campus Leader (SBCL) & Student Builder Group Leader (SBGL) – Cloud Captain
+**Amazon Web Services (AWS)** | Prashanti Institute of Technology & Science, Ujjain
+
+- Selected as an **AWS Student Builder Campus Leader (SBCL) for 2026**.
+- Leading student community initiatives focused on cloud computing, AI, and emerging technologies.
+- Contributing to the establishment and growth of the **AWS Student Builder Group (Cloud Club)** at PITS.
+- Organizing technical workshops, knowledge-sharing sessions, and collaborative learning initiatives.
+- Encouraging students to explore AWS services, cloud-native development, and hands-on technical projects.
+- Promoting hackathons, developer engagement, and peer-to-peer technical learning.
+
+**Focus Areas:** AWS Cloud Computing, Community Leadership, Technical Mentorship, Developer Advocacy, AI/ML, and Student Engagement.
 
 #  Achievements
 
